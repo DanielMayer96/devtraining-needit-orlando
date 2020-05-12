@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-12 10:03:04</sys_created_on>
+        <sys_id>653dd92c2f38141099602aa62799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_653dd92c2f38141099602aa62799b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-12 10:03:04</sys_updated_on>
+        <title><![CDATA[<p><span style="font-size: 36pt;"><strong><span style="font-size: 36pt;">Baa</span></strong></span><strong style="font-size: 48px;"><span style="font-size: 24pt;">aaa</span></strong><strong style="font-size: 36pt;"><span style="font-size: 18pt;">aaa</span><span style="font-size: 12pt;"><span style="font-size: 14pt;">aaa</span>aaa</span><span style="font-size: 10pt;">aaa</span><span style="font-size: 8pt;">aaa</span><span style="font-size: 7pt;">bla</span></strong></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=653dd92c2f38141099602aa62799b6cc"/>
+</record_update>
